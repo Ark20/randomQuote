@@ -1,0 +1,38 @@
+<html>
+<head>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <style>
+  body{
+    background-color: 	#D3D3D3;
+  }
+  @keyframes example {
+    0%   {border-bottom: 2px solid dodgerblue;}
+    50%  {border-bottom: 2px solid dodgerblue;
+          border-right: 2px solid dodgerblue;
+          border-left: 2px solid dodgerblue;}
+    100% {border: 2px solid dodgerblue;}
+  }
+  h1{
+    font-family: monospace;
+    font-size: 50px;
+    font-weight: lighter;
+    display: inline-block;
+    border-bottom: 2px solid dodgerblue;
+    padding: 15px;
+    border-radius: 25%;
+
+  }
+  h1:hover{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    animation-name: example;
+    animation-duration: 0.5s;
+    animation-fill-mode: forwards;
+  }
+  </style>
+</head>
+<body>
+  <center>
+    <h1>The past cannot be changed. The future is yet in your power.</h1>
+  </center>
+</body>
+</html>
