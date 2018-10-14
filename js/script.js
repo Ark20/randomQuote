@@ -23,7 +23,18 @@ var quotes = [
    {quote:"Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.",
     source:"Viktor Frankl"},
     {quote:"When we are no longer able to change a situation, we are challenged to change ourselves.",
-    source:"Viktor Frankl"}
+    source:"Viktor Frankl"},
+    {quote:" Stick to the fight when you're hardest hit. It's when things seem worst that you must not quit.",
+     source:"Edgar A. Guest"},
+    {quote:"When you reach the end of your rope, tie a knot in it and hang on.",
+     source:"Franklin D. Roosevelt"},
+    {quote:"The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+     source:"Helen Keller"},
+    {quote:"It is during our darkest moments that we must focus to see the light.",
+     source:"Aristotle"},
+    {quote:"Find a place inside where there's joy, and the joy will burn out the pain.",
+     source:"Joseph Campbell"}
+
  
  ];
 
