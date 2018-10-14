@@ -6,7 +6,9 @@ var colors = [
 // Create the array of quote objects and name it quotes
 //object contains quote, source & tag properties
 var quotes = [
-  
+
+    {quote:"If you are bad at something that doesnt mean you are bad it. Put efforts and prove that you are good at it",
+    source:"Girish"},
     {quote:"Working hard for something we don't care about is called stress: Working hard for something we love is called passion.",
     source:"Simon Sinek"},
     {quote:"We become what we think about",
