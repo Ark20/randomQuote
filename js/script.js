@@ -7,6 +7,12 @@ var colors = [
 //object contains quote, source & tag properties
 var quotes = [
 
+    {quote:"Keep your face to the sunshine and you cannot see a shadow.",
+    source:"Helen Keller"},
+    {quote:"A champion is defined not by their wins but by how they can recover when they fall.",
+    source:"Serena Williams"},
+    {quote:"If you look at what you have in life, you'll always have more.",
+    source:"Oprah Winfrey"},
     {
       quote:"If you are poor it's not your mistake,but if you die poor it's your mistake.",
         source:"Bill Gates",tags:["#life facts"]  
