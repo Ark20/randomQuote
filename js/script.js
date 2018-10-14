@@ -23,7 +23,11 @@ var quotes = [
    {quote:"Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.",
     source:"Viktor Frankl"},
     {quote:"When we are no longer able to change a situation, we are challenged to change ourselves.",
-    source:"Viktor Frankl"}
+    source:"Viktor Frankl"},
+    {quote:"Keep your face always toward the sunshine and shadows will fall behind you.",source:"Walt Whitman",tags:["#Success"]},
+    {quote:"It is always the simple that produces the marvelous.",source:"Amelia Barr", tags:["#Success", "#Life Facts"]},
+    {quote:"The world is full of magical things patiently waiting for our wits to grow sharper.",source:"Bertrand Russell"},
+    {quote:"Let us make our future now, and let us make our dreams tomorrow’s reality.",source:"Malala Yousafzai",tags:["#Success"]},
  
  ];
 
