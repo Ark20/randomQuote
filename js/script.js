@@ -6,7 +6,11 @@ var colors = [
 // Create the array of quote objects and name it quotes
 //object contains quote, source & tag properties
 var quotes = [
-
+    
+    {quote:"Keep your face always toward the sunshine and shadows will fall behind you.",source:"Walt Whitman",tags:["#Success"]},
+    {quote:"It is always the simple that produces the marvelous.",source:"Amelia Barr", tags:["#Success", "#Life Facts"]},
+    {quote:"The world is full of magical things patiently waiting for our wits to grow sharper.",source:"Bertrand Russell"},
+    {quote:"Let us make our future now, and let us make our dreams tomorrow’s reality.",source:"Malala Yousafzai",tags:["#Success"]},
     {quote:"Imagination is more important than knowledge.",
      source:"Albert Einstein"},
     {quote:"Keep your face to the sunshine and you cannot see a shadow.",
