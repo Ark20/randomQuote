@@ -24,7 +24,13 @@ var quotes = [
     source:"Viktor Frankl"},
     {quote:"When we are no longer able to change a situation, we are challenged to change ourselves.",
     source:"Viktor Frankl"}
- 
+    {quote:"Keep your face to the sunshine and you cannot see a shadow.",
+    source:"Helen Keller"}
+    {quote:"A champion is defined not by their wins but by how they can recover when they fall.",
+    source:"Serena Williams"}
+    {quote:"If you look at what you have in life, you'll always have more.",
+    source:"Oprah Winfrey"}
+
  ];
 
 // Create the getRandomQuuote function and name it getRandomQuote
