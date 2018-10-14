@@ -7,6 +7,8 @@ var colors = [
 //object contains quote, source & tag properties
 var quotes = [
 
+    {quote:"Imagination is more important than knowledge.",
+     source:"Albert Einstein"},
     {quote:"Keep your face to the sunshine and you cannot see a shadow.",
     source:"Helen Keller"},
     {quote:"A champion is defined not by their wins but by how they can recover when they fall.",
