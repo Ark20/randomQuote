@@ -7,6 +7,10 @@ var colors = [
 //object contains quote, source & tag properties
 var quotes = [
 
+    {
+      quote:"If you are poor it's not your mistake,but if you die poor it's your mistake.",
+        source:"Bill Gates",tags:["#life facts"]  
+    },
     {quote:"If you are bad at something that doesnt mean you are bad it. Put efforts and prove that you are good at it",
     source:"Girish"},
     {quote:"Working hard for something we don't care about is called stress: Working hard for something we love is called passion.",
