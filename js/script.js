@@ -5,8 +5,17 @@ var colors = [
 ]
 // Create the array of quote objects and name it quotes
 //object contains quote, source & tag properties
-var quotes = [
-    
+
+    {quote:" Stick to the fight when you're hardest hit. It's when things seem worst that you must not quit.",
+     source:"Edgar A. Guest"},
+    {quote:"When you reach the end of your rope, tie a knot in it and hang on.",
+     source:"Franklin D. Roosevelt"},
+    {quote:"The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+     source:"Helen Keller"},
+    {quote:"It is during our darkest moments that we must focus to see the light.",
+     source:"Aristotle"},
+    {quote:"Find a place inside where there's joy, and the joy will burn out the pain.",
+     source:"Joseph Campbell"}
     {quote:"Keep your face always toward the sunshine and shadows will fall behind you.",source:"Walt Whitman",tags:["#Success"]},
     {quote:"It is always the simple that produces the marvelous.",source:"Amelia Barr", tags:["#Success", "#Life Facts"]},
     {quote:"The world is full of magical things patiently waiting for our wits to grow sharper.",source:"Bertrand Russell"},
