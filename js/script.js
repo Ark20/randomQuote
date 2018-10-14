@@ -24,6 +24,10 @@ var quotes = [
     source:"Viktor Frankl"},
     {quote:"When we are no longer able to change a situation, we are challenged to change ourselves.",
     source:"Viktor Frankl"}
+    {
+      quote:"If you are poor it's not your mistake,but if you die poor it's your mistake.",
+        source:"Bill Gates",tags:["#life facts"]  
+    }
  
  ];
 
