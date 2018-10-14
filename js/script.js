@@ -6,6 +6,7 @@ var colors = [
 // Create the array of quote objects and name it quotes
 //object contains quote, source & tag properties
 
+let quotes = [
 {
 	quote: " Stick to the fight when you're hardest hit. It's when things seem worst that you must not quit.",
 	source: "Edgar A. Guest"
@@ -25,7 +26,7 @@ var colors = [
 {
 	quote: "Find a place inside where there's joy, and the joy will burn out the pain.",
 	source: "Joseph Campbell"
-}
+},
 {
 	quote: "Keep your face always toward the sunshine and shadows will fall behind you.",
 	source: "Walt Whitman",
@@ -317,10 +318,7 @@ var colors = [
 {
 	quote: "I did not become a vegetarian for my health, I did it for the health of the chickens.",
 	source: "Isaac Bashevis Singer"
-}
-
-]; <<
-<< << < master
+},
 {
 	quote: "Education is the passport to the future, for tomorrow belongs to those who prepare for it today.",
 	source: "Malcolm X",
@@ -380,10 +378,7 @@ var colors = [
 	quote: "I did not become a vegetarian for my health, I did it for the health of the chickens.",
 	source: "Isaac Bashevis Singer"
 },
-
-]; ===
-=== = >>>
->>> > master
+]; 
 
 // Create the getRandomQuuote function and name it getRandomQuote
 
