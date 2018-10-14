@@ -36,6 +36,11 @@ var colors = [
 	source: "Amelia Barr",
 	tags: ["#Success", "#Life Facts"]
 },
+	{
+	quote: "Only I can change my life. No one can do it for me.",
+	source: "Carol Burnett",
+	tags: ["#Motivation"]
+},
 {
 	quote: "The world is full of magical things patiently waiting for our wits to grow sharper.",
 	source: "Bertrand Russell"
