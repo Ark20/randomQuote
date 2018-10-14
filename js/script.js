@@ -279,7 +279,11 @@ var colors = [
 		quote: "I did not become a vegetarian for my health, I did it for the health of the chickens.",
 		source: "Isaac Bashevis Singer"
 	}
-
+,
+  {
+    quote: "Life is about who you want to be.",
+    source: "William Zhou"
+  },
 ];
 
 // Create the getRandomQuuote function and name it getRandomQuote
