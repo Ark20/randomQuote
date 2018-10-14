@@ -26,6 +26,10 @@ var quotes = [
     source:"Viktor Frankl"},
     {quote:"Life is about who you want to be.",
     source:"William Zhou"},
+    {quote:"Pretend inferiority and encourage his arrogance.", source: "Sun Tzu"}
+
+    {quote:"I did not become a vegetarian for my health, I did it for the health of the chickens.",
+    source:"Isaac Bashevis Singer" }
  
  ];
 
