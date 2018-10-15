@@ -8,6 +8,7 @@ var colors = [
 // js/quotes.js
 //they are included in the index.html file as a script tag.
 
+
 // Create the getRandomQuuote function and name it getRandomQuote
 function getRandomColor(array)
 {
