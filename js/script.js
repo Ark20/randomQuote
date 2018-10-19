@@ -1,11 +1,10 @@
 // FSJS - Random Quote Generator
 //array of colors to change background
-var colors = [
+const colors = [
 	"pink", "green", "red", "blue", "black", "magenta"
 ]
 // Create the array of quote objects and name it quotes
 //object contains quote, source & tag properties
-
 let quotes = [
 {
 	quote: " Stick to the fight when you're hardest hit. It's when things seem worst that you must not quit.",
@@ -382,8 +381,8 @@ let quotes = [
 {
 	quote: "I did not become a vegetarian for my health, I did it for the health of the chickens.",
 	source: "Isaac Bashevis Singer"
-},
-]; 
+}
+];
 
 // Create the getRandomQuuote function and name it getRandomQuote
 
@@ -396,7 +395,6 @@ function getRandomColor(array)
 	document.getElementById('loadQuote').style.background = randColor;
 	document.getElementById('quote-box').style.background = randColor;
 	document.body.style.background = randColor;
-	console.log(randColor);
 };
 
 //pick a random number and use it to select a random quote
@@ -423,17 +421,18 @@ function printQuote()
 			tags += '<p class="tags">' + randomQuote.tags[i] + '</p>';
 		};
 
-
 		document.getElementById('quote-box').innerHTML = '<p class="quote">' + randomQuote.quote + '</p><p class="source">' + randomQuote.source + '</p>' + tags;
-
 	}
 	else
 	{
 		document.getElementById('quote-box').innerHTML = '<p class="quote">' + randomQuote.quote + '</p><p class="source">' + randomQuote.source + '</p>';
 	}
 };
+// Load random quote on page load
+document.addEventListener("DOMContentLoaded", printQuote);
+
 //refresh page every 5 seconds
-setInterval(printQuote, 9000);
+setInterval(printQuote, 5000);
 
 
 // This event listener will respond to "Show another quote" button clicks
