@@ -434,7 +434,7 @@ function printQuote()
 };
 //refresh page every 5 seconds
 setInterval(printQuote, 9000);
-
+printQuote()
 
 // This event listener will respond to "Show another quote" button clicks
 // when user clicks anywhere on the button, the "printQuote" function is called
